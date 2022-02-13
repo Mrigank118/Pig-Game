@@ -18,5 +18,5 @@
 <li>Handling CSS properties from Javascript</li>
 <li>Optimizing Code for better performance</li>
 <li>calling element by #id</li>
-<li>Math.random fucntion application</li>
+<li>Math.random function application</li>
 
