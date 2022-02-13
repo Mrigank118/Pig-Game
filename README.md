@@ -1,6 +1,6 @@
 <h1 align="center">Pig-Dice-Game</h1>
 
-<img src="highlow.PNG" alt="IMAGE OF THE GAME"> 
+<img src="piggame.PNG" alt="IMAGE OF THE GAME"> 
 <h2>A simple dice game based on holding your stakes.</h2>
 <p>The game is a practice code from Jonas Schmetmann's Complete JavaScript Course on Udemy. The game is solely based on learning Javascript. The game works on Principle of holding your stakes low, you have to guess a Secret Number. The game lets you know if your value is high or lower than the Secret Number and reduces points based on the incorrect guesses.</p>
 
