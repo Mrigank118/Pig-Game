@@ -11,3 +11,12 @@
 <li>The player can also choose to hold his turn passing the Dice to the next player</li>
 <li>The points get added to the main-score and First to 100 wins.</li>
 
+
+<h2>Concepts used and learned during the project</h2>
+<li>Calling a class from HTML in JavaScript</li>
+<li>Handling Event Listners</li>
+<li>Handling CSS properties from Javascript</li>
+<li>Optimizing Code for better performance</li>
+<li>calling element by #id</li>
+<li>Math.random fucntion application</li>
+
